@@ -1,0 +1,19 @@
+*{
+    margin-top: 30px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: indianred;
+    
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    
+}
+thead{
+    color: skyblue;
+    background-color: black;
+}tbody{
+    background-color: lightgray;
+}
